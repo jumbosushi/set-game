@@ -4,7 +4,9 @@ A card matching game in the terminal!
 This was a coding assignment I received from one of the companies I applied to as a software developer intern.
 
 **"**
+
 **~RULES GIVEN~**
+
 "Set" is a card game where a group of players try to identify a "set" of
 cards from those placed face-up on a table.
 Each card has an image on it with 4 orthogonal attributes:
@@ -35,5 +37,5 @@ all the same or all different.
   (to make 15, then 18, then 21...)
 - The game is over when there are no cards left in the deck, and no
   sets left on the table. The player with the most sets wins.
-  
-  **"**
+
+**"**
