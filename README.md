@@ -3,6 +3,8 @@ A card matching game in the terminal!
 
 This was a coding assignment I received from one of the companies I applied to as a software developer intern.
 
+![Terminal Image](http://i.imgur.com/ZoFGbqO.png)
+
 **"**
 
 **~RULES GIVEN~**
@@ -39,3 +41,9 @@ all the same or all different.
   sets left on the table. The player with the most sets wins.
 
 **"**
+
+## Issues
+If you find any issues, please post them here on Github!
+
+## TODO
+Add ASCII Art when the game is initiated
